@@ -2,7 +2,7 @@
 
 Hi All,
 
-This small project is to detect the anamoly in credit cards transactions using machine learning
+This small project is to detect the anamoly in credit cards transactions using machine learning.
 
 We will need python, some machine learning libraries like matplotlib.pyplot, scikit-learn , numpy , pandas , 
 
